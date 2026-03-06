@@ -11,7 +11,7 @@ export class HeartText {
 
     // Configuration options
     this.config = {
-      text: "Only For U, Anggia zahrariayani",
+      text: "Only For U, Anggia zahrariyani",
       size: 20,
       height: 2,
       curveSegments: 12,
